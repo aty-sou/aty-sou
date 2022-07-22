@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aty-sou
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning privacy-preserving technique
 
 
 <!---
